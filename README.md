@@ -13,6 +13,7 @@ In the project, we will be using Altair as our main visualization library and sk
 ## Notable Figures
 ![Alt text](relative/path/to/roomAndBoardVsInState.png.jpg?raw=true "Room and Board Cost vs. In-state tuition")
 ![Alt text](relative/path/to/caucVsAfr.png.jpg?raw=true "Caucasion vs. African American Student Percentage Enrollment")
+![alt text](https://github.com/trungbui2000/ds100_final_project/blob/master/roomAndBoardVsInState.png?raw=true)
 
 
 ## Results
