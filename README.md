@@ -11,8 +11,8 @@ We will be using 3 major datasets in our project which are all acquired from Kag
 In the project, we will be using Altair as our main visualization library and skLearn as our machine learning library. Using Altair, we will use scatterplot as the primary comparison tool between the enrollment percentage in different institutions as well as factors that contributes to determining in-state tuition cost. Additionally, we will also construct and analyze the first and second principle component inside our dataset to explore interesting patterns between different states and their respective average tuition. Moreover, skLearn Linear Regression will be utilized to help us build a multi-linear model that can predict the in-state tuition given a set of factors
 
 ## Notable Figures
-![alt text](https://github.com/trungbui2000/ds100_final_project/blob/master/roomAndBoardVsInState.png?raw=true "Room and Board Cost vs. In-state tuition")
-![alt text](https://github.com/trungbui2000/ds100_final_project/blob/master/caucVsAfr.png?raw=true "Caucasion vs. African American Student Percentage Enrollment")
+![alt text](https://github.com/trungbui2000/ds100_final_project/blob/master/Pictures/roomAndBoardVsInState.png?raw=true "Room and Board Cost vs. In-state tuition")
+![alt text](https://github.com/trungbui2000/ds100_final_project/blob/master/Pictures/caucVsAfr.png?raw=true "Caucasion vs. African American Student Percentage Enrollment")
 
 
 ## Results
