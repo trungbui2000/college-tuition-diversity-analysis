@@ -1,5 +1,5 @@
 # Statistics and Data Science Paper Analysis
-##### Below is a short summary of our findings, the attached document named `project.pdf` gives a full project report of our findings and `project-explore.ipynb`
+##### Below is a short summary of our findings, the attached document named `project.pdf` gives a full project report of our findings. Furthermore, `project-explore.ipynb` will show our data cleaning and visualization process as well as how we got to our conclusion. 
 
 ## Abstract
 Deciding which college to attend has always been a difficult and life-changing moment for people and as a result, we wanted to help incoming students to understand the different factors that goes into determining how much an univesrsity tuition would be. Furthermore, we are interested in the representation of African-American in post-secondary institution and thus, we will be comparing the enrollment percepntage of African-American to other major races such as Hispanic, White and Asian.
@@ -12,3 +12,5 @@ In the project, we will be using Altair as our main visualization library and sk
 
 ## Results
 After thoroughly explored the possible relationship of different factors that determined in-state tuition, we concluded that total enrollment does not correlate to in-state tuition. However, we did determine that there is a positive correlation between college room and board cost and in-state tuition, a negative correlation between school ranking and in-state tuition, both type of degree and type of institution all have a positive correlation with in-state tuition. Furthermore, regardless of which institution we analyze, Cacausian students in general have a 30% or higher enrollment percentage than African-American students. Additionally, higher tuition rates will generally corresponds to less African-American students enrollment percentage.
+
+![Alt text](relative/path/to/img.jpg?raw=true "Data Visualization")
